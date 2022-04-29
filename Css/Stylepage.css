@@ -1,0 +1,264 @@
+.page{
+margin: 0px;
+padding: 0px;
+
+position: fixed;
+top:0px;
+left:0px;
+
+
+}
+aside{
+    float: left;
+
+    background-color: red;
+
+    color:white;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+
+    height: 625px;
+    width: 152px;
+}
+aside div{
+
+    max-height: 2.58cm;
+    width: 145px;
+
+    
+    margin-top: 0px;
+    margin-left: 3px;
+
+    
+
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 1px;
+
+    padding-top:35px;
+    padding-bottom: 35px;
+    
+    border-style: solid;
+    
+}
+aside p{
+    text-align: center;
+
+    width: 125px;
+
+    margin:5px;
+
+}
+.bloc1{
+    background-color: rgb(19, 20, 20);
+
+    height: 105px;
+    width: 1220px;
+
+    margin: 0px;
+
+    position: absolute;
+    left: 152px;
+}
+.bloc1n1{
+    display: flex;
+    gap: 30px;
+
+    padding-left: 10px;
+
+}
+.bloc1n1 p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: smaller;
+    font-weight: bold;
+    color:white;
+
+    margin: 0px;
+    padding: 0px;
+
+     
+}
+.bloc2{
+    margin: 0px;
+    padding: 0px;
+
+    position: relative;
+    top: -25px;
+   
+}
+.bloc2 img{
+    float: left;
+
+    margin-left: 10px;
+    margin-right: 5px;
+
+    padding: 0px;
+
+    width: 95px;
+    height: 65px;
+
+}
+.p1{
+    color:yellow;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: 70px;
+
+    margin-top: 25px;
+    padding: 0px;
+
+}
+.p2{
+    color:white;
+
+    margin: 0px;
+    padding: 0px;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 0.645cm;
+    font-weight: 15px;
+
+    line-height: 0px;
+
+    position: relative;
+    top: -15px;
+    
+}
+.bloc3{
+    display: flex;
+    float: right;
+
+    position: absolute;
+    top: 15px;
+    left:630px;
+
+    color: white;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:bolder;
+    font-weight: 25px;
+
+    text-align: center;
+}
+.d0{
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin: 2px; 
+}
+ul{
+    display: flex;
+
+    list-style-type: none;
+
+}
+li p{
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin: 2px;
+    
+    max-height: 35px;
+    width: 100px;
+
+}
+.d1 p{
+    background-color: blue;
+}
+.d2 p{
+    background-color: rgb(6, 138, 179);
+}
+.d3 p{
+    background-color:red;
+}
+.d4 p{
+    background-color:green;
+}
+.t1{
+    
+    width: 1400px;
+    height: 622px;
+}
+.t1 img{
+    text-align: right;
+
+    
+
+
+    width: 400px;
+    height: 622px;
+}
+.t2{
+    width: 760px;
+    height: 512px;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 20px;
+    font-size: 12px;
+
+    padding-left: 25px;
+    padding-right: 10px;
+
+    justify-content: center;
+
+    position: absolute;
+    top:110px;
+    left:560px;
+
+}
+strong{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 15px;
+    font-size: 19px;
+}
+.t2 div{
+
+    width: 700px;
+    height: 130px;
+
+    border-style: solid;
+    border-color: rgb(100, 100, 114);
+
+    border-top-color: white;
+    border-left-color: white;
+    border-right-color: white;
+
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    
+    padding: 5px;
+    margin: 0px;
+
+}
+
+.last1{
+    border-top-color: white;
+    border-left-color: white;
+    border-right-color: white;
+    border-bottom-color: white !important;
+
+    padding: 5px;
+    margin: 0px;
+}
+.last2{
+    width: 200px;
+    height: 100px;
+
+    border-top-color: white;
+    border-left-color: white;
+    border-right-color: white;
+    border-bottom-color: white !important;
+
+    padding: 5px;
+    margin: 0px;
+
+}
+.last2 p{
+    width: 200px;
+    height: 100px;
+
+
+}
